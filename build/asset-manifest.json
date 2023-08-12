@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tripathimayank/my-portfolio-website/static/css/main.9fc5c4e3.chunk.css",
+    "main.js": "/tripathimayank/my-portfolio-website/static/js/main.fabfcbb1.chunk.js",
+    "main.js.map": "/tripathimayank/my-portfolio-website/static/js/main.fabfcbb1.chunk.js.map",
+    "runtime-main.js": "/tripathimayank/my-portfolio-website/static/js/runtime-main.cc43921f.js",
+    "runtime-main.js.map": "/tripathimayank/my-portfolio-website/static/js/runtime-main.cc43921f.js.map",
+    "static/css/2.88d553a9.chunk.css": "/tripathimayank/my-portfolio-website/static/css/2.88d553a9.chunk.css",
+    "static/js/2.976c6194.chunk.js": "/tripathimayank/my-portfolio-website/static/js/2.976c6194.chunk.js",
+    "static/js/2.976c6194.chunk.js.map": "/tripathimayank/my-portfolio-website/static/js/2.976c6194.chunk.js.map",
+    "index.html": "/tripathimayank/my-portfolio-website/index.html",
+    "static/css/2.88d553a9.chunk.css.map": "/tripathimayank/my-portfolio-website/static/css/2.88d553a9.chunk.css.map",
+    "static/css/main.9fc5c4e3.chunk.css.map": "/tripathimayank/my-portfolio-website/static/css/main.9fc5c4e3.chunk.css.map",
+    "static/js/2.976c6194.chunk.js.LICENSE.txt": "/tripathimayank/my-portfolio-website/static/js/2.976c6194.chunk.js.LICENSE.txt",
+    "static/media/image.3d582b83.jpg": "/tripathimayank/my-portfolio-website/static/media/image.3d582b83.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc43921f.js",
+    "static/css/2.88d553a9.chunk.css",
+    "static/js/2.976c6194.chunk.js",
+    "static/css/main.9fc5c4e3.chunk.css",
+    "static/js/main.fabfcbb1.chunk.js"
+  ]
+}
