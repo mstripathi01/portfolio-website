@@ -4,6 +4,7 @@ import ScrollIntoView from 'react-scroll-into-view'
 
 
 function About() {
+  console.log('hello');
   return (
     <div>
      
